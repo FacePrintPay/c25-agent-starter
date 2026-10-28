@@ -12,3 +12,5 @@ echo ""
 echo "Run: bash agent-starter.sh --demo"
 echo "GitHub: github.com/Faceprintpay"
 echo "YC W26 Applicant: Kre8tive Konceptz LTD"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=agent-starter.sh
